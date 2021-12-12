@@ -134,7 +134,7 @@ window.onscroll = function () {
 };
 
 // timer
-let deadline = "2021-12-27";
+let deadline = "2022-01-15";
 const timer = (id, deadline) => {
   const addZero = (num) => {
     if (num <= 9) {
